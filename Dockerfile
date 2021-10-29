@@ -3,6 +3,8 @@ FROM ubuntu:latest
 ENV DEBIAN_FRONTEND="noninteractive" \
     TZ="Europe/London"
 
+WORKDIR /usr/test
+
 COPY . .
 
 RUN set -ux \
@@ -18,7 +20,4 @@ RUN set -ux \
         qttools5-dev \
         libuchardet-dev
 
-RUN set -ux && pwd && cd flacon && cmake . && make -j4 && make install && cd ..
-# RUN cd ../zzuf && ./configure && make -j4 && make install & cd ..
-
-CMD zzuf -x -s 0:100 -C 100 flacon -s orig.out
+RUN set -ux && cd flacon && cmake . && make -j4 && make install && cd ..
