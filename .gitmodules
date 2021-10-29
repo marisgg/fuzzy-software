@@ -1,0 +1,6 @@
+[submodule "zzuf"]
+	path = zzuf
+	url = https://github.com/samhocevar/zzuf
+[submodule "flacon"]
+	path = flacon
+	url = https://github.com/flacon/flacon
