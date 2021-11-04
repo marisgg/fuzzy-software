@@ -58,8 +58,5 @@ COPY . .
 # Radamsa
 RUN set -ux && cd radamsa && make && make install && cd .. && rm -Rf radamsa
 
-# AFL++
-RUN set -ux && cd AFLplusplus && make distrib && make install && cd ..
-
-# Flacon (TODO: Compile with AFL++ and AddressSanitizer)
+# Flacon without AFL++ and AddressSanitizer
 RUN set -ux && cd flacon && cmake . && make -j4 && make install && cd ..
