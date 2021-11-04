@@ -30,6 +30,12 @@ https://owasp.org/www-community/Fuzzing
 
 http://caca.zoy.org/wiki/zzuf
 
+https://github.com/google/sanitizers/wiki/AddressSanitizer
+
+https://www.usenix.org/system/files/login/articles/login_summer16_03_gutmann.pdf
+
+https://aflplus.plus/building/
+
 ### Submodules
 
 https://github.com/samhocevar/zzuf
