@@ -66,3 +66,7 @@ https://github.com/AFLplusplus/AFLplusplus
 https://gitlab.com/akihe/radamsa
 
 
+# Results
+
+Using zzuf with seed 12331, we generated seg.cue which results in a segmentation fault when giving this as input file to Flacon. We found that Flacon's pitfall is the replacement of the space right after FILE with another character. The CUE file can be truncated to the first 10 lines (head -10) to produce this same segmentation fault. Experimental results tell us that the spooky space can be replaced with any character followed by any amount of additional characters on the same line to produce this error.
+
