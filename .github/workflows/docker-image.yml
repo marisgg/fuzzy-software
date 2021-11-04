@@ -25,5 +25,9 @@ jobs:
         submodules: true
     
     # Run docker build image
-    - name: Docker build image
+    - name: Docker build default image
       run: docker build --file Dockerfile --tag fuzzy-vm:$(date +%s) .
+      
+        # Run docker build image
+    - name: Docker build image with instrumented Flacon
+      run: docker build --file InstrumentedFlacon.dockerfile --tag fuzzy-inst-vm:$(date +%s) .
