@@ -3,26 +3,45 @@ This repository holds the source code and output files of the fuzzing procedure 
 
 ## Build & Run
 
-Requirements are docker and git-lfs.
+Requirement is docker.
+
+Default image (no instrumentation):
 
 ```bash
-git-lfs install && git-lfs pull
 docker build -t "fuzzy-vm" .
 ```
 
+Instrumented image:
+
+```bash
+docker build -f InstrumentedFlacon.dockerfile -t "fuzzy-vm-inst"
+```
+
 ### Run the docker image
+
+Default image:
 
 ```bash
 docker run -it fuzzy-vm
 ```
 
-###
+Instrumented image:
+
+```bash
+docker run -it fuzzy-vm-inst
+```
+
+### Fuzzing
 
 Run zzuf commando inside the docker image with 100 seeds for interesting output:
 
 ```bash
-zzuf -C 100 -s 0:100 -x | flacon -s orig.cue
+zzuf -C 100 -s 0:100 -x flacon -s orig.cue
 ```
+
+#### Segfault
+
+Run zzuf with seed 12331 or with the 'seg.cue' file in the repository to see a signal 11 SEGV.
 
 ## Sources used
 
