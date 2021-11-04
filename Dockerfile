@@ -5,15 +5,16 @@ FROM ubuntu:20.04 as deps
 ENV DEBIAN_FRONTEND="noninteractive" \
     TZ="Europe/Amsterdam"
 
+# Define clang version to use.
+ARG CLANG_VERSION=12
+
 # Environment for clang 11
-ENV CMAKE_C_COMPILER=clang-11 \
-    CMAKE_CXX_COMPILER=clang++-11
+ENV CMAKE_C_COMPILER=clang-${CLANG_VERSION} \
+    CMAKE_CXX_COMPILER=clang++-${CLANG_VERSION} \
+    LLVM_CONFIG=llvm-config-${CLANG_VERSION}
 
 # We are running as root still.
 WORKDIR /usr/working
-
-# Copy git checkout to docker file system.
-COPY . .
 
 # Gather dependencies (Flacon/radamsa/zzuf/AFL++).
 RUN set -ux \
@@ -47,10 +48,12 @@ RUN set -ux && apt-get update -y && apt-get install --no-install-recommends -y \
 
 # Get llvm 11 for AFL++ and create symlink for the config binary.
 RUN set -ux && apt-get update -y && apt-get install --no-install-recommends -y  \
-    lld-11 llvm-11 llvm-11-dev clang-11 && \
-    ln -s /usr/bin/llvm-config-11 /usr/bin/llvm-config
+    lld-${CLANG_VERSION} llvm-${CLANG_VERSION} llvm-${CLANG_VERSION}-dev clang-${CLANG_VERSION}
 
 FROM deps as build 
+
+# Copy git checkout to docker file system.
+COPY . .
 
 # Radamsa
 RUN set -ux && cd radamsa && make && make install && cd .. && rm -Rf radamsa
