@@ -1,0 +1,29 @@
+name: Docker Image CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+    
+    # Use the Bash shell regardless whether the GitHub Actions runner is ubuntu-latest, macos-latest, or windows-latest
+    defaults:
+      run:
+        shell: bash
+
+    steps:    
+    # Checkout with submodules
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        submodules: true
+    
+    # Run docker build image
+    - name: Docker build image
+      run: docker build --file Dockerfile --tag fuzzy-vm:$(date +%s) .
