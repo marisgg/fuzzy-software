@@ -4,3 +4,9 @@
 [submodule "flacon"]
 	path = flacon
 	url = https://github.com/flacon/flacon
+[submodule "radamsa"]
+	path = radamsa
+	url = https://gitlab.com/akihe/radamsa
+[submodule "AFLplusplus"]
+	path = AFLplusplus
+	url = https://github.com/AFLplusplus/AFLplusplus
