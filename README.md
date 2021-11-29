@@ -27,13 +27,19 @@ docker build -f InstrumentedFlacon.dockerfile -t "fuzzy-vm-inst"
 
 ### Run the docker image
 
-Default image:
+* Default image:
 
 ```bash
 docker run -it fuzzy-vm
 ```
 
-Instrumented image:
+* Sanitized image:
+
+```bash
+docker run -it fuzzy-vm-san
+```
+
+* Instrumented image:
 
 ```bash
 docker run -it fuzzy-vm-inst
