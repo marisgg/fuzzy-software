@@ -31,9 +31,12 @@ Instrumented image:
 docker run -it fuzzy-vm-inst
 ```
 
+---
+
 ### Fuzzing
 
 * _zzuf_
+
 Run zzuf command inside the docker image with 100 seeds for interesting output:
 
 ```bash
@@ -41,6 +44,7 @@ zzuf -C 100 -s 0:100 -x flacon -s orig.cue
 ```
 
 * _radamsa_
+
 Running radamsa is done as follows:
 
 ```bash
@@ -52,6 +56,8 @@ cat orig.cue | radamsa > ram.cue && flacon -s ram.cue
 * Run zzuf with seed 12331 or with the 'seg.cue' file in the repository to see a signal 11 SEGV.
 
 * Run radam.py for a fresh segfault; run ramseg\_gen10.sh for 10.
+
+---
 
 ## Sources used
 
