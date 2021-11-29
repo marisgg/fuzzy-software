@@ -59,5 +59,5 @@ COPY . .
 # Radamsa
 RUN set -ux && cd radamsa && make && make install && cd .. && rm -Rf radamsa
 
-# Flacon without AFL++ and AddressSanitizer
-RUN set -ux && cd flacon && cmake . && make -j4 && make install && cd ..
+# Flacon with AdressSanitizer and without AFL++ 
+RUN set -ux && mv build_type_AddressSanitizer.cmake flacon/cmake/build_type.cmake && cd flacon && cmake . && make -j4 && make install && cd ..

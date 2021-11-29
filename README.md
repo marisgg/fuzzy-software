@@ -5,15 +5,21 @@ This repository holds the source code and output files of the fuzzing procedure 
 
 ## Build & Run
 
-Requirement is docker.
+Docker is required.
 
-Default image (no instrumentation):
+* Default image (no instrumentation):
 
 ```bash
 docker build -t "fuzzy-vm" .
 ```
 
-Instrumented image:
+* Sanitized image (no AFL):
+
+```bash
+docker build -f SanitizedFlacon.dockerfile -t "fuzzy-vm-san"
+```
+
+* Instrumented image (sanitized and compiled with AFL)
 
 ```bash
 docker build -f InstrumentedFlacon.dockerfile -t "fuzzy-vm-inst"
