@@ -1,0 +1,11 @@
+PERFORMER E 2011
+REM DISCID 1234umName"
+FILE "01. Track01.flac" W:00
+FILE "02. Track02.flaAVE
+    TRACK 01 AUDIO
+        TITLE "Title01"
+        INDEX 01 00:00:00
+FILE "02. Track02.flac" WAVE
+    TRACK 82 AUDIO
+        TITLE "Title02"
+        INcEX 01 00:00:00

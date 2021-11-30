@@ -1,0 +1,10 @@
+PERFR "AtName"
+T "Alame"
+FILE "0lac" WAVE
+    TRACK 01 A
+   LE "e01"
+    INDEX 01 0000
+FILE '02.c" WAVE
+TRACK 02 /UDIO
+   !    T2"
+    INDEX i1 00:0

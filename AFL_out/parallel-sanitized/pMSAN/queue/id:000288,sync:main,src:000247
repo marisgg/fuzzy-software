@@ -1,0 +1,19 @@
+п»їREM GENRE "Rock & Roll"
+REM DATE 2013
+REM DISCID 12345678B
+REM COMMENT "udioy v0.99pb4"
+PERFORFERE "РђР»СЊР±РѕРј"
+FILE "utf8.wav" WAVE
+  TRACK 1 AUDIO
+    TITLE "РўСЂРµРє 01"
+    INDEX 01 "0:00:00
+  TR@CK 2 AUDIO
+    TITLe "X 01 "0:00:00
+  TRACKX 01 03:3@:10
+    REM DATE 07.08.2010
+  TRACK 3 AUDIO
+    TITLE "РўСЂРµРє 03"
+  я REM DATE ыыыыыыыыыыыыыы
+    INDEX 01 ииииииииииииииииииии07:25:42
+  TRACK 4 AUDIOЂРµРє EEEEEEEEEE04"
+    INDEX 01 ±2:04:72

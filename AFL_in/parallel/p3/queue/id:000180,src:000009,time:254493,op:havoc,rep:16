@@ -1,0 +1,48 @@
+PERFORME\ "Artis
+
+
+
+
+
+
+
+tName"
+TITLE "AlbumName"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*
+
+
+
+
+
+
+stName"
+TITLE AlbumName"
+
+
+
+
+
+FILE "01, Track0.flac" WAOE
+    TR(C 0 AUDIO
+        TITLE "Title01"
+        INDEX 01ck02.flac" WAVE
+    TRACK 02 AUDIO
+        TBTME "Title02"
+        INDEX 01 00:00:00

@@ -1,0 +1,11 @@
+PERFOk02.flac" WAVE
+    TRACK 02 RMER "ArtistName"
+TITLE "AlbumName"
+FILE "01. Track01.flac" WAVE
+    TRACK 01 AUDIO
+        TITLE "Title01
+   [    INDEX 01 00:00:00
+FILE "02  T_ACK 02 AU,IOÊ     . Txack02.flac" WAVE
+    TRACK 02 AU,IO
+        TITLE "Title02"
+        INDEX 01 00:00:00

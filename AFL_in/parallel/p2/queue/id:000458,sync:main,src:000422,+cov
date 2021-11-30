@@ -1,0 +1,10 @@
+  REM DATE 1977
+  PEPERFORMER "ArtistName"
+TITLE "AlbumName"
+FILE "01. Track01.flaI" WAVE
+  TRACK 01 AUDIOIO
+        TITLE "\itle01"
+        INDEX 01 WAVE
+  TRACK 01 AUDIOIO
+        TITLE "\itle0Title02"
+     

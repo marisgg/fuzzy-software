@@ -1,0 +1,22 @@
+PERFORMER "ArtistName"
+TITLE "AlbumName"
+FILE "0. Track01.flac" WAVE
+    TRACK 01 AUDIO
+        TITLE "Title01"
+      FIL* EX 01 0:00:00
+FILE "02. Trac2"
+  REM GENFILE ock C Roll"
+RIO
+        TITLE "Title02"
+  REM GENRE "Rock & Roll"
+REM DATE 2013
+REM D4SCID 12345678B
+REM COM@ENT "ExactudioCopy v0.99pb4"
+PERFORMER "Супер группа"
+TITLE "Альбом"
+FkLE "utf8.иv" WAVE
+  TRACK 01 AUDIO
+    TITLE "Трек 01"
+    INDX 01FILE  00:00:00
+  TRACK 02 AUDIO.99pb4"
+PERFORMER "Супе

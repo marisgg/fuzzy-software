@@ -1,0 +1,18 @@
+﻿2EM GENRE "Rock & Roll"
+REM DATE 2013
+REM DISCID 12345678"ТREM COMMENT!"ExactAudiodopy v0.99pb�пер гру��па"
+TITLE "Альбом"
+FILE "utf8.wav" WAVE
+  TRACK к 01"
+    INDEX 01 00:00:00
+  TRACK 2 AUDIO
+    TITLE "Трек 02"
+    INDEX 01 03:3
+AILE9:1.
+    REM DATE 07.08.2010
+  TRACK 3 AUDIO
+    TITLE "Трек 03
+    REM DAT��11/04/05    
+    INDEX 01 07:25:42
+   "Тре�
+    INDEX 01 12:04:72

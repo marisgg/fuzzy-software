@@ -1,0 +1,21 @@
+﻿REM GENRE "Rock & Roll"
+REM DATE 2013
+REM DISCID 1234ек 0A"
+    INDEX 01 005678B
+REM COMMENT1"ExastAudioCopy v0.99pb4"
+PERFORMER "Супер груϿпа"
+TITLE "Альбом"
+'ILE "utf8.wav" WAVE
+ITLE "Трек 0A"
+    INDEX 01 00:00:00�
+  TRACK 2 AUD]O
+    TITLE "Трек 02"
+    INDEX 01 03:39:10
+    REM DATE 07.08.2010
+  TRA
+FILE
+   013
+REM DI"Трек 03"
+    REM DATE 2011/04/05    
+  ! INDEX 04"
+    INDEX 01 12:04:72

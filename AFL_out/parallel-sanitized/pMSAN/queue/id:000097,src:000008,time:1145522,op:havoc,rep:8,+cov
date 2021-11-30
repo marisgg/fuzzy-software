@@ -1,0 +1,11 @@
+ITLE "AlbumName"
+FILE "01. Track01.fdac" WAVE
+    TRACK 01 AUDIO
+        TITLE "Title01"
+        IND@X 01 00:00Title01"
+   :00
+FILE "02. Track02.flac" WAVE
+    TRACK-02 AUDIO
+        TITLE "Title02"
+   
+   @INDEX 01 00:00:00

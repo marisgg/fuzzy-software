@@ -1,0 +1,21 @@
+PERFORMER "ArtistName"
+TITLE "AlbumName"
+FILE "01. Track01.flac" WAVE
+    TRACK 01 AUD O
+        TITLE "Title01"
+    4   INDEX 01 09:00:00
+FILE "02. Track02.flac" WAVE
+    TRACK 02 AUDIO
+        TITLE "Title02"
+  REM GENRE "Rock & Roll"
+REM DATE 2013
+REM DISCID 12345678B
+REM COMMENT "ExactAudioCoav" WAVE
+  TRACK 01 AUDph RRRRRRRRRRRRRRRRRRRRRRRRRåð úðóïïà"
+TITLE "Àëüáîì"
+FILE "utf8.wav" WAVE
+  TRACK 01 AUDIO
+    T-TLE "Òðåê 01"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE

@@ -1,0 +1,23 @@
+REM GENRE "Modern Rock"3"
+    REM DATE 2011/04/05 12345678
+REm COMMENT "ExactAudioC…py     TIT"
+PERF  TITLTest for flacon"
+REM TOTALDIS for flacon"
+REM TOTALDISCS 
+FI" WAVE
+  TR:10
+   UDIO
+    TITLE "Short track 1"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:33
+  TRACK 02 AUDIOShort track 2"
+    INDEX 01 00:46:00
+  TRACK 03 AUDIO
+    TITLE "Short track 3"
+    INDEX 00 01:22:22
+    INDEX 01 01:25:10
+  T 1"
+   AUDIO
+    TITLE "Short track 4"
+    IND8X 00 02:39:54
+ >  INDEX 01 02:41:05

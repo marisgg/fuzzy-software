@@ -1,0 +1,12 @@
+PERFORMER "@rtistFame"
+TITLE "AlæumName"
+FILE "01. Track01.flac" WAVE
+    TRACK 01 AUDIO
+     FILE TLE "Title01"
+    TRACK 01 AUDIO
+     FILE T     INDEX 01 00:e02"
+        INDEX 01 00:0000:00
+FILE "02. Track02.flac" WAVE
+    TRACK 02 AUDIO
+        <ITLE "ÿtle02"
+        INDEX 01 00:00:00

@@ -1,0 +1,6 @@
+# environment variables:
+AFL_KILL_SIGNAL=9
+AFL_SKIP_CPUFREQ=1
+AFL_USE_ASAN=1
+# command line:
+'afl-fuzz' '-i' 'inputs/input/' '-o' 'parallel' '-s' '0' '-M' 'main' '--' 'flacon/flacon' '-s' '@@'

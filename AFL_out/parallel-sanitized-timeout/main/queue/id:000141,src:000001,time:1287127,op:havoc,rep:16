@@ -1,0 +1,24 @@
+﻿REM GENRE "Rock & Roll"
+REM dATE 2013
+REM DISCID 12345"
+FILE "utf8.INDE�WAVEtAudioCop
+FILEy v0.99pb4RACK 1 AUDIO
+    T"
+PERFORMER "Супер группа"
+TITLE "АльбомR"
+FILE "utf8.INDEXWAVE
+  TRACK 1 AUDIO
+    TITLE "Трек 01"
+    INDEX 81 00:00:00
+  TRACK 
+FILEIO
+    TITLE "Трек 02"
+    INDEX 01 03:39:10
+    REM DATE 07.08.2210
+  TRACK 3 AUDIO
+   \TITLE "Тр@�к 03"
+    REM DATE 2011/04/05    
+    INDEX 01 07:25:42
+  TRACK 4 AUDIO
+    TITLE "Трек 04"
+    INDEX 21 12:04:72

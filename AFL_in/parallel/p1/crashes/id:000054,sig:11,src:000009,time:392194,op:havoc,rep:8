@@ -1,0 +1,11 @@
+þÿÿPERFORMER "ArtistName"
+TITLE "AlbumName"
+FILE"01. TraCk01.flac" WAVE
+    TRACK 01 AUDIO
+        TITLE "Title01"
+        INRMER "$rtistName"
+ 00:00:00
+FILE "02. Track02.flac" WAVE
+    TRACK 02 AUDIO
+        TITLE "Title0¡"
+        INDeX 01 00:00:00

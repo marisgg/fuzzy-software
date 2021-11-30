@@ -1,0 +1,10 @@
+PERFR "Ae"
+T "Alame"
+FILE "001.flac" WAVE
+    TRACK 01 A
+   LE "e01"
+    INDEX 01 0000
+FILE "02.c" WAVE
+TRACK 02 AUDIO
+ ITLE "Ti2"
+    INDEX -1 00:0

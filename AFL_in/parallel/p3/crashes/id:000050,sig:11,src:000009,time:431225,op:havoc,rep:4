@@ -1,0 +1,11 @@
+PERFORMER "ArtistName"5
+REM DISCNUMBER 2
+TITLE "Shortack01.flac" WAVE
+    TRACK 01 AUDIO
+        TITLE "Title01"
+        INDEX 01 00:00:00
+FILE "02. Track02.flac" WAVE
+    TRAACK 01 AUDIO
+        TITLE "TCK TITLE "AlbgmName"
+FILE "1. Tra"
+        INDEX 01 00!00:00

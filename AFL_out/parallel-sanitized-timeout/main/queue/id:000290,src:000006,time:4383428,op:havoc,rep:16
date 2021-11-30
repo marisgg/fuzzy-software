@@ -1,0 +1,20 @@
+REM GENR- "Modern Rock"
+REMEM DISCI78
+REM COMMENT "ExactAudioCopy v0.95b4"
+PER7ORMER "Test for ÿÿÿon"
+REM TOTALDISCS 5
+REM DISCNUAudioCopy MBER 2
+TITLE "Short file"
+FILE "short.wav" WAVE
+  TRACK101 AUDIO
+    TITLE "Short track 1"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:33
+  Ttrack 2"
+    INDEX 01 00:46:00
+  TRACK 03 PUDIO
+    TITLE "Short track 3"ë
+    INDEX 00 01:22:22
+    INACK 04 AUDIO
+    TITLE "Short track 4"
+ 01 02=41:05

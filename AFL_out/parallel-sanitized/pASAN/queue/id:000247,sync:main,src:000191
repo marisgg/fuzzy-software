@@ -1,0 +1,24 @@
+﻿REM GENRE "Rock & Roll"
+REM DATE
+FILE 2013
+REM D GENRE "Roc678B
+REM COMMoll"
+REM DATE
+FILE 2013
+REM DPERFORMER "Супер группа"
+TITLE "Ал�﻿REM GENRE "Rock & Roll"
+REM
+  TRACK 1 AUDIO
+    TITLE "Тре�� 01"
+    INDEX 01 00:00:00
+  TRAEK 2 ACDIO
+    TITLE "Трек 0��
+    INDEX 01 03:39:10
+    REM DATE 07.08.2010
+  TRACK 3 AUDIO
+    TITLE "Трек 03"
+    REM DATE 2011/04/05    
+    INDEX 01 07:25:42
+  TRACK 4 AUDIO
+    TITLE "Трек 04"
+    INDEX 01 12:04:72

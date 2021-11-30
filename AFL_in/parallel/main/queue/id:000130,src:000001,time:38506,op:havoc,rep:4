@@ -1,0 +1,21 @@
+п»їREM GENRE "Rock & Roll"
+REM DATE 2013
+REM DISCID 12345678B
+REM COMMENT "ExactAudioCopy v0.99pb4"
+PERFORMER "РЎСѓРїРµСЂ РіСЂСѓРїРїР°"
+TITLE "єђР»СЊР±РѕРј"
+FILE "utf8.wav" WAVE
+  TRACK 1 AUDIO
+    TITLE "РўСЂРµРє 01"
+    INDEX 01 00:00:00
+  TRACK 2 AUDIO
+    TITLE "РўСЂРµРє 0#"
+    INDEX 01 03:39оооооооооооооооооооооооооооооооо:10
+    REM DATE 07.08.2010
+  TRACK 3 AUDIO
+    TITLE "РўСЂРµРє 03"
+    REM DATE 2011/04/0    
+    INDEX 01 07:25:42
+  TRACK 4 AUDIO
+    TITLE "РўСЂРµРє 04"
+    INDEX 01 12:04:72

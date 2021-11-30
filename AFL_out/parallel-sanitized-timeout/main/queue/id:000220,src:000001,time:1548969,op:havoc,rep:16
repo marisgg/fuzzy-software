@@ -1,0 +1,23 @@
+﻿REM GENRE "Rock & Roll"
+RE� DATE M013
+REM DISCID 12345678B
+7EM COMMENT "ExactAudioCopy v0.99pb4"
+PERFORMER "Супер���руппа"
+TITLE "Альбом"
+FILE "utf8.wav" WAVE 07.08.2010
+  T
+  TRACK 1 AUDIO
+    TITLE "Трек 01"
+    
+FILE 01 00:
+FILE
+  TRACK 2 AUDIO
+FILE TITLE "Трек 02"
+ 
+FILE   INDEX 01 03:39:10
+    REM DATE 07.08.2010
+  TRACK 3 Aк 03"M DNX# 2011/04/05    
+     01 07:25:42
+  TRACK 4 AUDIO
+    TITLE "Трек 04"
+    INDEX 01 12:04: 2

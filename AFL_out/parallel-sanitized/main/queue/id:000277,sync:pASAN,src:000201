@@ -1,0 +1,10 @@
+PERFORMER "ArtistName"
+TITLE "AlbumName"
+FILE "0FILE ackÿÿÿlac" WAVE
+    TRACK 01 AUDIO
+ ;      TITLE "itle01"
+        INDEX 01 00:00:00
+FILE "02. Track02.flåc" WAVE
+    FILE TRACK 02 AUDIO
+   FILE      TITLE "Title02"
+    FILE NDEX 01 00:00:00

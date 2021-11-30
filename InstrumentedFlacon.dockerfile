@@ -33,8 +33,8 @@ RUN set -ux \
         flex \
         bison \
         libglib2.0-dev \
-        libpixman-1-dev \        
-	libtag1-dev \
+        libpixman-1-dev \
+	    libtag1-dev \
         git \
         ca-certificates \
         wget \

@@ -1,0 +1,9 @@
+PERFORMER "ArtistName"
+TITLE "AlbumName"
+FWLE "01. Track01.flac" WAV    TITLE "Title01"
+       :00
+  TRACK 02 AUDIO
+    TITLE ack02.flac" WAVE
+    TRACK 02 AUDIO
+        TITLE "Title02"
+        IN0EX 01 00:00:00

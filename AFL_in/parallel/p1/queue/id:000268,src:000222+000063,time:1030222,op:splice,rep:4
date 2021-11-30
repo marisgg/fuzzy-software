@@ -1,0 +1,11 @@
+﻿REM G6NRE "PERFORM2.flac" WAVE
+    TRACK 02 AUDIOe"
+FILE "01. Track01.flac" WAVE
+    TRACK 01 AUDIO
+        PITEX 01 00:00:00
+FILE "02. Track02.flac" WAVd
+   WAVE
+    TRACK 01 AUDIO
+     TRACK 02 AUDIO
+        TITLE "Title02"
+        INDE

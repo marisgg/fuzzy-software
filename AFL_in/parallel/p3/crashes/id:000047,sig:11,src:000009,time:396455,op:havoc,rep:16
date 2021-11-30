@@ -1,0 +1,8 @@
+þÿÿORMER "ArtistGame"
+TITLE "AlbumName"
+F'LE "01. èack01.flac" WAVE
+    TRACK 01 AUDIO
+        TITLE "itle01"
+        INDE7 01 00:00:00
+FILE "02. TrackB2.flac" WAV  =%   dITLE "Te01"
+        ININDEX 01 00:00:00

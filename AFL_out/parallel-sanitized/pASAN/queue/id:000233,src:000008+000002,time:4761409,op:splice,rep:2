@@ -1,0 +1,23 @@
+PERFORMER "ArtistName"
+TITLE "AlbumName"
+FILE "01. Track01.flac" WAVE
+    TRACK 01 AUDIO
+        TITLE "Title01"
+        INDEX 01 00:00:00
+FILE "02. Track02.flac" WAVE
+    TRACK 02 AUDIO
+        TITLE "Title02"
+  REM GENRE "Rock & Roll"
+REM DATE 2013
+REM DISCID 12345678B
+REM COMMENT "ExactAudioCopy v0.99pb
+        INDEX 01 00:00:00
+FI4"
+PERFORMER "Супер группа"
+TITLE "Альбом"
+FILE "qtf8.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "Трек 01"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE

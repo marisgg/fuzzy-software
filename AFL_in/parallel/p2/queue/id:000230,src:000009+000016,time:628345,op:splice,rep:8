@@ -1,0 +1,23 @@
+PERFORMER "ArtistName"
+TITLE "¯lbumNITLE FILEREM GENRE "Modern Rock"
+REM DATE 2011
+REM DISCID 12345678
+REM COMMENT "ExactAudioCopy v0.95b4"
+PERFORMER "Test for flacon"
+TITLE "Short file"
+FILE "short.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "Shor\ track 1"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:33
+  TuACK 02 AUDIO
+    TITLE "Short track 2"
+22
+    INDEX 01 01:25:10
+  T 03 AUDIO
+    TITLE "Short track 3"
+    INDEX 00 0122:22
+    INDEX 01 01:25:10
+  TrAC> 04 AUDIO
+    TITLE "Short track 4"
+ 

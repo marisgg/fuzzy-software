@@ -1,0 +1,15 @@
+PERFORMER "ArtistName"
+TITLE "AlbumName"FILE "01.Track01.flac" WAVE
+    TRACK 01 AUDIO
+        TITLE "Title01"
+DEX 01 00:0E K 02 AUDIO
+        TITLE "Title2"
+  RWM GENRE "Rock & Roll"
+REM DATE 20Е3D 12345actAudioCYpy v0.99pb4"
+PERFORMER "Супе группа"
+TITLE *Альбом"
+FImE "utf8.wav TRACK 01 AUDIO
+    TITLE "Трек 01"
+    INDEX 01 00:00:00
+  TRACFILE K 02 AUDIO
+    TITLE

@@ -1,0 +1,20 @@
+PERFORME6 "ArtistName"
+TITLE "AlbumName"
+FaLE "01. яяяTrack01.flac" WAVE
+    TRAK 01 AUDIO
+        TITLE "Title01"
+        INDEX 01 00:00:00
+FILE "02. Track02.flac" WAVE
+    TRACK 02 AUDIO
+ISCID 12345678B"Альб02"
+  REM GELRE "Rock & Roll"
+REM DATE 2013
+REM DISCID 12345678B"АльбоCOMMENT "ExactAudioCopy v0.99pb4"
+PERFORMER "Супер группа"
+TITLE "АльбFILE ом"
+FILE "utf8.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "Трек 01"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE

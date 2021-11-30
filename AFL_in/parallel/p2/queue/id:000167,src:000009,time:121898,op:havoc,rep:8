@@ -1,0 +1,12 @@
+PERFRRMER "ArtistName"
+TITLE "AlbumName"
+FILE "01. Track01.flac" WAVE
+    TRACK 01 AUDIO
+      & TITLE "Title01"
+  01 00:00:00
+FILE O
+        TITLE INDEX 01 00:00:00
+FILE O
+    WAVE
+    TRACK 02 AUDIO
+        TIT€E "Title02"ÿ       IADEX 01 00:00:00

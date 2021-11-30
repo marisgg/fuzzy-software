@@ -1,0 +1,21 @@
+﻿REM GENRE "Ro
+REM DISCID 0234�678B
+REM COMMENT "ExactAudioCopyv0.99pb4"
+PERFORMER "Супет группа"
+TITLE "Аль�av" WAVE
+  TRACK 1 AUDIO
+    TITLE "Трек 01"
+    INDEX 01 00:00:00
+  TRACK 2 AUDIO
+    TITLE "Тр�к 02"
+    INDEX 01 03:39:10
+    REM DATE 07.08.2010
+  TSACK 3 AUDIO
+    TITLE "ТՀек 03"
+    REM DATE 2011/04/0V    
+    INDEX 01 07:25:4
+  
+FILE 4 AUDIO	
+    TITLE "Трек 04"
+    INDEX 01 12:04:!2
+  TRACK

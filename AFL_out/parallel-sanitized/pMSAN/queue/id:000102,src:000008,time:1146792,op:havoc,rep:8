@@ -1,0 +1,9 @@
+PERFORMER 
+FILE "01. Tflac" WAVE
+    TRACK /1 AUDIO
+        TÛTLE "Title01"
+     †  INDEX 01 00:00:00
+FILE "02. Track02.flac" WAVE
+    TRACK ü2 AUDIO
+        TITLE "Title02
+        INDUX 01 00:00:00

@@ -1,0 +1,18 @@
+﻿REM GE0000"Rock & Roll"NT "DATM 07.08Copy v0.99pbер группа"
+TITLE "А��ьбом"
+FILE "utf8.wav" WAVE
+  TRACK 1 AUDIO
+    TITLE 2222"Трек 01"
+    IcDEX 01 00:00:00
+ �
+FILETRACK 2 AUDIO
+    TITLE "Трек 02"
+    INDEX 01 03:39:10
+    REM DATM 07.08.2010
+  TRACs 3 AUDIO
+    TITLE "Трек 03"
+M DATE 20@1/04/05    
+    INDEX 01 07:25:42
+  T���RACK 4 AUDIO
+    TITLE "Трек 04"
+    INDEX 01 12:04:72

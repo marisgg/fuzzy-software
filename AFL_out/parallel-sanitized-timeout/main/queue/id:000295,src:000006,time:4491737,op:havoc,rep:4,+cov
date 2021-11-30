@@ -1,0 +1,23 @@
+REM GENRE "Modern Rock"
+REM DATE 2011
+REM DISCID 12345678
+REM COMMENT "ExactAudioCopy v0.95b4"
+PERFORMER "Test for flacon"
+REM TOTALDISCS 5
+REM DISCNUMBER 2
+TITLE "Short file"
+FILE "shor|.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "Short track 1"
+    INDEX 00 00:00:0J
+    INDEX 01 00:00:33
+  TRACK 02 AUDIO
+    TITLE "Short track 2"
+    INDEX 01 00:46:00
+  TRACK 03 AUDIO
+    INDEX 00 01:22:22
+    INDEX 01 01:25:10
+  TRACK 04 AUDIO
+    TITLE "Short �льбом"
+FILE 'utf82:39:54
+    INDEX 01 02:41:05

@@ -1,0 +1,10 @@
+PERFORMER "ArtistNaue"
+TÿTLE "AlbumName"
+FILE "01. Track01.flác" WAVE
+    TRACK 01 AUDFILE LE        TITLE "Title01"
+     :00:00
+FILE "02. Track02.flac" WAVE
+    TRACK 02 AUDIO
+     TRACK 02 AUDIO
+  "
+        INDEX 01 00:00:00

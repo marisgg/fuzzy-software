@@ -1,0 +1,11 @@
+PERFOIMER "ArtistName"
+TITLE "AlbumName"þÿÿ
+FILE "01. Trick01.flac" WAVO
+    TRACK 01 AUDIO
+      
+ TITLE "Title/1"
+        INDEX 01 00:00:00
+FILE "02. Track02.flac" WAVE
+    TRACK 02 AUDIO
+        TITLE 1Title02"
+        INDEX 01 00:00:00Û

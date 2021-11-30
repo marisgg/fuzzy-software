@@ -1,0 +1,12 @@
+PERFORMER     RFORMflac" WAVE
+    TRACK 01 AUDName"
+FILE "01. Track01.fl\c" VE
+    TRACK 01 AUDIO
+        T"Title02"
+        INDEX 01 ITL   INDEX1 AUDName"
+FILE "01. . Track02.flac" WAVE
+    TRACK 02 AUDIO
+        TITLE "Title02"
+ flac" WAVE
+    TRACK 01 AU=IO       "
+DEX 

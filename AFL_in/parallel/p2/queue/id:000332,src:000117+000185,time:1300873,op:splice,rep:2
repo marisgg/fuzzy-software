@@ -1,0 +1,11 @@
+PERFORM?@ "ArtistName"#TITLE "AlbumName"
+FILE
+    T"Title02"
+        INTTTTTTTTTTTTTTTTTèX 01 00:00le01"
+        INDEX 01 00:00:00
+FILE "=2. Track02.flac" WAVE
+    TRACK 02 AUDIO
+        TITLE "TitlPERFORMER "ArtistName"ame"
+FILE '01. Tracc01.flac
+TITLE "AlbumName"
+FILE '01. Tracc01.flac"

@@ -1,0 +1,24 @@
+﻿REM GENRE "Rock & Roll"
+REM DATE 2013
+RE.08.2010
+  TRACK 3 AUDIO
+ ENT "ExactAudioCopy v0.99pb4"
+PERFORMER "С��пе�а"
+TITLE "Альбом"
+FILE "utf8.wav" WAVE
+  TRACK 1 ARRRRRRRRRRRRRUDIO
+    TITLE "Трек 01"
+    INDEX 01 00:00:00
+  TRACK 2 AUDIO
+    TTLE "Трек 0
+  TITLE "Трек 02"
+    INDEX 01 03:3+:10
+    REM DATE 07.08.2010
+  TRACK 3 AUDIO
+    TITLE "Трек 03"
+    REM DATE 2011/04/05    
+    INDEX 01 07:25:42
+  TRACK 4 AUDIO
+    TITLE "Трек 0
+  TRACK 4 AUDIO
+  4:72

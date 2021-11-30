@@ -1,0 +1,11 @@
+PERFORM          ER "ArtistName"ITLERACK 02 AUDIO
+       c" WATLE "AlbumName"
+FILE "01. Track01.flac" WAVE
+    TFILE 01 AUDIO
+        TITLEAUDIO
+       TI "€itle01"
+    1   INDEX 01 00FILE 0
+FI>E "02. Track0FILE TRACK 0 AUDIO
+       c" WAVE
+    TRACK 02 2. Track0FILE TRACK "Title02"
+        INDEX 01 00:00:00

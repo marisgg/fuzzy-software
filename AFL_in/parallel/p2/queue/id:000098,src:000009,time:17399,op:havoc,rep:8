@@ -1,0 +1,9 @@
+MERFORMER "ArtistName"
+TITLE "Album^ame"
+FILE "01. trIck01.flac" WAVE
+    TRACK 01 A0
+FILE "0€. Track02.flac" WAV        INDEX 01 00:00:00
+FILE "02. Track02 "Title01"
+        IN 02 AUDIO
+        TITLE "Title02"
+        INDEX 01 00:00:00

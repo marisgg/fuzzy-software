@@ -1,0 +1,25 @@
+﻿Rb4"
+PERFORMER "Supel"
+REM DATE 2013
+REM 
+    REM DATE 07.08.2010
+  TDISCID 12345678B
+REM COMMENT "ExactAudioCopy v0.99pb4"
+ "Супер группа"
+TITLE "Альбом"
+FILE "utf8.wav" WAVE
+  TRACK 1 AUDIO
+    TITLE "Трек 01"
+    dNDEX 01 00:00:00
+  TRACK 2 AUDI9
+    TITLE "Трек E
+
+    INDEX 01 03:39:10
+    REM DATE 07.08.2010
+  TRACK 3 AUDIO
+    TITLE "Трек 03"
+    REM DATE 2011/04/05    
+    INDEX 01007:25:42
+  TRACK 4 AUDIO
+    TITLE "Трек 04"
+ !  INDEX 01 12:04:72

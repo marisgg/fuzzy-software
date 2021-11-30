@@ -1,0 +1,38 @@
+﻿REM GENRE "Rock & Roll"
+REM DATE 2013
+REM DISCID 12345678B
+REM COMMENT "ExactAudioCopy v0.99pb4"
+PERFORMER "Супер группа"
+�ом"
+FILE "utf8.wav" WAVE"
+  TRACK 1 AUDIO
+    TITLE "Трек 01"
+    INDEX 01 00:00:00
+  TRACK 2 AUDIO
+    TITLE "Трек 02"
+    INDEX 01 03:39:10
+    REM DATE 07.08.FILE "stonecold.flac" FLAC
+PERFORMER "Various"
+TITLE "Tribute To Queen - Stone Cold Queen"
+  TRACK 01 AUDIO
+    TITLE "Robin Zander - Stone Cold Crazy"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Mickey Thomas - Play The Game"
+    INDEX 01 03:38:30
+  TRACK 03 AUDIO
+    TITLE "Joe Lynn Turner - Fat Bottomed Girls"
+    INDEX 01 08:35:35
+  TRACK 04 AUDIO
+    TITLE "Geoff Tate - Somebody To Love"
+    INDEX 01 13:02:10
+  TRACK 05 AUDIO
+    TITLE "Gunnar & Mathew Nelson - Crazy Little Thing Called Love"
+    INDEX 01 17:47:17
+  TRACK 06 AUDIO
+    TITLE "Jack Blades - Fight From Inside"
+    INDEX 01 20:55:62
+  TRACK 07 AUDIO
+    TITLE "Zason ERFO
+FILE"Супе�Scheff - You're My Best Friend"
+    INDEX 01 24:48:

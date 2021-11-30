@@ -1,0 +1,24 @@
+ﻠREM GENRE "Rock & Rol���l"
+REM DATE 2013
+REM DISCID 1234567E
+  TRACK 1 AUD8B
+REM COMMENT "ExactAudioCopy v0.99pb4"
+PERFORMER "Супер группа"
+TITLE "Альбом"
+FILE "utf8.wav" WAVE
+  TRACK 1 AUDIO
+FILE
+    TITLE "Трек 01"
+    INDEX 01 00:00:00
+  TRACK 2 AUDIO
+    TITLE "Трек 02"
+    IN
+    INDEXDEX 01 03:39:10
+    REM 
+  TRACK 3 AUDIO
+    TITLE "Тр��к 03"
+    REM DATE 2011/04/0X    
+    INDEX 01 07:25:42
+  TRACK 4 AUDIO
+    TITLE "Трек 04"
+    INDEX 01 12:04:72

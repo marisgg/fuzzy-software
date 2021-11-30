@@ -1,0 +1,6 @@
+PERFORMER "Artk01.flac" WAVE
+    TRACK 01 AUDIO
+        TITL% "Title01"
+        INDEX 01 00:04:00
+FILE "02. Track02.flac"      TITLE "Title02"
+      PERFORMER  INDEX 01 00:00:00

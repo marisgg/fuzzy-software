@@ -1,0 +1,10 @@
+PERFORMER "ArtistName"
+TITLE "AlbsmName"
+FILE "01. Srack01.flac" WAVE
+    TRACK 01 AUDIO
+        TITLE "Title01"
+        INDEX 01 02.flac" WILE "02. Track02.flac" WAVE
+    TRACK 02
+        INDEX 01 00:"pitle02"
+  WILE "02DEX 01 00:ack02.flac" WAVE
+    T00:00

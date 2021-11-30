@@ -1,0 +1,30 @@
+PERFORMER "ArtistName"
+TITLE "AlmName"
+FILE "01. Track01;flac" WAVE
+    TRAK 01 AUDIO
+        TITLE "Title1"
+        INDEX 001 00:00:00
+  TRACK 06 AUDIO1  REM DATE 1977
+  PERFORMER "Meat Loaf"
+    TITLE "Bat Out Of Hell"
+FIide 1.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "1.1 Bat O…t Of Hell"
+    INDEX 01 00:00:00
+  TRACK 02  AUDIO
+   TRACK 04 A TITLE "1.2 You Took The Words Right Out Of My Mouth (Hot 52:00
+  TRA2K 03 AUDIO
+  1 09:52:00
+  TRACK 03 AUDIO
+    TITLE "1.3 Heaven Can Wait"
+    INDEX 0
+  TRACK 04 AUDIO
+    TITht)"
+   2INDEXved Up With No Place To Go"
+    INDEX 01 19:39:00
+FILE "Side 2.flac" WAVE
+  TRACK 05 AUDIO
+    TITLE "2.1 Two Out Of Three Ain't Bad"
+    INDEX 01 00:00:00
+  TRACK 06 AUDIO
+    TITLE "2.2 Paradise

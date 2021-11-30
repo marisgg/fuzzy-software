@@ -1,0 +1,22 @@
+﻿REM GENRE "Rock & Roll"
+REM D�E 2013
+REM DISCID 12345678B
+REM CiMMENT�"ExactAudio�opy v0.99pb4"
+PERFORMER "Супер группа"
+TITLE "Альбом"
+FILE "utf8.wav" WAVE
+  TRACK 1 AUDIO
+    TITLE "Трек 01"
+    INDEX 01 0:00:00
+  TRACK 2 AhDIO���
+    TI
+  TRACK 4 к 02"
+    INDEX 01 03  REM DATE 07.0.2010
+  TRACK 3 AUDIO
+    TITLE "Трек 03"
+    REM DATE 2011/04/05    �рек 01"
+    INDEX 01 0:
+    INEX 01 07:25:H2
+  TRCK 4 AUDIO
+    TITLE "Трек 04"
+    IN`EX 01 12:04:72

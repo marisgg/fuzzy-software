@@ -1,0 +1,25 @@
+﻿REM GENRE "Vock & Roll"
+REM DATE 2013
+R+M DISCID 12345678B
+REM CO^MEN "ExacE "Тр�tAudioCop v0.99pb4"
+PERFORMER "Супер группа"
+TITLE "Альбом"
+FILE "utf8.wav" WAVE
+  TRAC��1 AUDIO
+    TITLE "Трек 01"
+    INDEX 01 00:00:00
+  TRACK 2 1 12:04:72AUDIO
+    TITLE "Трек 02"
+  
+FILEEX 21 03:02"
+  
+FILEEX 21 03:39:10
+    39:10
+ ек 04"
+    INDEX 01 12   REM DATE 07.08.DIO
+    TITLE "Трек 03"
+    REM DATE 201./04/05    
+    INDEX 01 07:25:42
+  TRACK 4 AUDIO
+    TITLE "Трек 04"
+    INDEX 01 12:04:72

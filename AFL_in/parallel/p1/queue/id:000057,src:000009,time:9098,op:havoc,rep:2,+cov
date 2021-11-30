@@ -1,0 +1,10 @@
+PERFORMER "ArtistName"
+TITLE "AlbumName"
+FILE "01. Track01.flac" WAVE
+    TRACK 01 AUDIO
+        TITLE "Title01"
+        INDEX 01 00:00:00
+FILE "02.>Track02.fTLE "AlbumName"
+FILE "01. TO
+        TITLE "Title02"
+        INDEX 01 00:00:00

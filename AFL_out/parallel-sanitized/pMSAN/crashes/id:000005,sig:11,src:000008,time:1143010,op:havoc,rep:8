@@ -1,0 +1,9 @@
+PERFORMER "ArtistName"
+TUTLE "AlbumNFILE FILE "01. Track01.flac" WAVE
+    TRACK 01 AUDIO
+  FILE  TITLE "Ti4le01"
+        INDEX 01 00:00:00
+FILE "02. \rack02.flac" WAVE
+    TRACTRACK 02 AUDIO
+        TITLE "c02"
+        INDEX 01 00:00:00

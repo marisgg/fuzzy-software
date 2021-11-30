@@ -1,0 +1,51 @@
+﻿REM GENRE "Rock & Roll"
+RE� DATE 2013
+REM DISCID 12345678B
+REM COMMENT "ExactAudioCopy 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+р группа)
+TITLE "Альбом"
+FILE "utf8.wav" WA\E
+  TRACK 1 AUDIO
+    TITLE "Трек 01"
+    INDEX 01 00:00:00
+  TRACK 2 AUDIO
+    TITLE "Трек 02"
+    INDEX 0, 03:39:10
+    REM DATE 07.08
+FILE.2010
+  TRACT 3 AUDIO
+    TITLE "Трек 03"
+    REM DATE 2011/04/05    
+    INDEX 01 07:25:42
+  TRACK 4 AUDIO
+    TITLE "Трек 04"
+ 12:04:72

@@ -1,0 +1,11 @@
+PERFORMER "" WAVE
+    TRACK 01 AUDIO
+ e"
+FILE "01. Track01.flac" WAVE
+    TRACK 01 AUDIO
+        TITLE "Title01"
+  INDEX 01 00:00:        INDEX 01 00:00:00
+FILE "02. Track02.flè" WAVE
+    TRACK 02 AUDIO
+        TITLE "Title02"
+ 0:00
